@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555233542184.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "379A887A",
+    "lastKnownWriteTime" : 1547557673,
+    "last_content_update" : 1547557673,
+    "path" : "C:/Users/joeyy/OneDrive/MOOCs/git_mooc.sh",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "15"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sh"
+}
